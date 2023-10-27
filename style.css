@@ -77,8 +77,7 @@ b {
     color: var(--Very-dark-desaturated-blue);
 }
 
-.upper-container {
-    background-image: url(https://profile-card-wl.netlify.app/images/bg-pattern-card.svg);
+.upper-container img {
     width: 350px;
     height: 150px;
 }
